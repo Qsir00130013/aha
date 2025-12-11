@@ -3,6 +3,6 @@
     "https://web.globals.net",
     "https://h5.globals.net"
   ],
-  "privacy_policy": "/prpo.html"
-
+  "privacy_policy": "/prpo.html",
+  "goh5": "/api/index/test"
 }
