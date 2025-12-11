@@ -1,6 +1,8 @@
 {
   "domains": [
-    "https://web.globals.net"
+    "https://web.globals.net",
+    "https://h5.globals.net"
   ],
   "privacy_policy": "/prpo.html"
+
 }
